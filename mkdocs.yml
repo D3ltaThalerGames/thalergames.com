@@ -29,10 +29,6 @@ plugin:
   - blog
   - search
   - tags
-  - git-revision-date-localized:
-      enable_creation_date: false
-      type: datetime
-      format: "%d.%m.%Y"
 
 markdown_extensions:
   - attr_list
