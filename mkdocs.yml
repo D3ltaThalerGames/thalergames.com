@@ -25,6 +25,7 @@ theme:
     - search.share
 
 plugin:
+  - meta
   - blog
   - search
   - tags:
