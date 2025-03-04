@@ -4,6 +4,7 @@ site_name: thalergames.com
 #site_url: 
 theme:
   name: material
+  custom_dir: overrides
   features:
     #- navigation.instant
     #- navigation.instant.progress
