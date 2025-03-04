@@ -1,6 +1,13 @@
 ---
 date:
   created: 2024-12-31
+authors:
+  - D3lta
+categories:
+  - General
+description: >
+  Happy new Years
+title: Happy new years eve
 ---
 
 # Happy new years eve!
