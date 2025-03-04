@@ -4,6 +4,7 @@ site_name: thalergames.com
 #site_url: 
 theme:
   name: material
+  logo: assets/thalergames_logo.png
   custom_dir: overrides
   features:
     #- navigation.instant
