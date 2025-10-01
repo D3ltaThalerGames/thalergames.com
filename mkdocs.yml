@@ -1,10 +1,11 @@
 
 # Project information
-site_name: thalergames.com
-#site_url: 
+site_name: thalergames.com - Game Blog
+site_url: https://thalergames.com
 theme:
   name: material
   logo: assets/thalergames_logo.png
+  language: de
   custom_dir: overrides
   features:
     #- navigation.instant
@@ -25,6 +26,9 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+
+extra_css:
+  - stylesheets/thalergames.css
 
 plugin:
   - meta
