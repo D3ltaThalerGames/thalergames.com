@@ -1,9 +1,16 @@
+---
+#draft: true 
+date: 2025-10-01 
+categories:
+  - Game
+  - Lanparty
+---
+
 # Lanparty Games
 
 
 * World in Conflict
 * Flatout
-
 
 
 

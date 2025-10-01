@@ -1,3 +1,2 @@
-# Blogs
+# Blog
 
-{{ blog_content }}

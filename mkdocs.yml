@@ -2,6 +2,9 @@
 # Project information
 site_name: thalergames.com - Game Blog
 site_url: https://thalergames.com
+site_author: D3lta
+site_description: >-
+  A blog about games, game development, and related topics.
 theme:
   name: material
   logo: assets/thalergames_logo.png
