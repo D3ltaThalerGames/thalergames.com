@@ -32,13 +32,16 @@ theme:
 
 extra_css:
   - https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css
+  - https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css
   - stylesheets/thalergames.css
 
 extra_javascript:
   - https://code.jquery.com/jquery-3.7.0.min.js
-  - https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js 
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
+  - https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js
+  - https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js
+  #- https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/datatables-init.js  
+  #- javascripts/tablesort.js
 
 plugin:
   - meta
