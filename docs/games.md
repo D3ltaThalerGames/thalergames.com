@@ -1,6 +1,7 @@
 # GameList
 
 Alle Games von thalergames.com.
+Liste aller Games mit den neuesten zuerst.
 
 ## Games
 
@@ -28,3 +29,9 @@ Alle Games von thalergames.com.
         </tr>
     </tbody>
 </table>
+
+
+
+## Case
+
+https://datatables.net/extensions/searchpanes/examples/advanced/columnFilter.html
