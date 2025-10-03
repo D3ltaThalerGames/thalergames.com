@@ -4,6 +4,7 @@ tags:
   - GameMode - TankWar
   - Classic
   - Lanparty
+  - FPS
 ---
 
 <script type="application/json" id="battlefield2-data">
@@ -33,6 +34,10 @@ tags:
 # Battlefield 2
 <a href="https://oldgamesdownload.com/battlefield-2-ttry/" target="_blank" rel="noopener">Download BF2</a>
 
+
+* Account für Multiplayer auswählen
+* 
+
 ## Tank Master
 
 Download <a href="https://www.bf-games.net/downloads/1551/x-07-mappack.html" target="_blank" rel="noopener">Mappack mit&nbsp;Tank Master</a>
@@ -40,4 +45,4 @@ Download <a href="https://www.bf-games.net/downloads/1551/x-07-mappack.html" tar
 
 ## ToDo
 
-- [ ] Testing unter Linux bazzite
+- [x] Testing unter Linux bazzite ✅ --> funktioniert!👍
