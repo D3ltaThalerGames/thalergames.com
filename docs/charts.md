@@ -4,8 +4,6 @@ Diese Seite zeigt die aktuellen Top-Spiele mit dynamischen DataTables, die autom
 
 ## Aktuelle Top-Spiele
 
-<div id="dynamic-charts-container"></div>
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     // Warten bis alle Scripts geladen sind
@@ -33,6 +31,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 500);
 });
 </script>
+
+<div id="dynamic-charts-container"></div>
 
 ## Statische Fallback-Tabelle {#static-table}
 

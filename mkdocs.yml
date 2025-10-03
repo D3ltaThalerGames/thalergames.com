@@ -84,8 +84,7 @@ markdown_extensions:
 
 nav:
   - index.md
-  - Games:
-    - games/index.md
+  - Games: games.md
   - Charts: charts.md
   - Blog:
     - blog/index.md
