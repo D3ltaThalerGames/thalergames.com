@@ -1,3 +1,11 @@
+---
+tags:
+  - Battlefield
+  - GameMode - TankWar
+  - Classic
+  - Lanparty
+---
+
 # Battlefield 2
 <a href="https://oldgamesdownload.com/battlefield-2-ttry/" target="_blank" rel="noopener">Download BF2</a>
 
