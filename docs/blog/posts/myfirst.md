@@ -1,6 +1,10 @@
 ---
 date:
   created: 2024-12-31
+  updated: 2025-01-02
+categories:
+  - Archiv
+readtime: 15
 authors:
   - D3lta
 categories:

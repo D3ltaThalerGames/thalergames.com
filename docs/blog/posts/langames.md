@@ -2,15 +2,22 @@
 #draft: true 
 date: 2025-10-01 
 categories:
-  - Game
+  - Games
   - Lanparty
 ---
 
 # Lanparty Games
 
 
+* Battlefield 
 * World in Conflict
-* Flatout
+* Flatout 2
+* Unreal Tournament (99, 2004)
+* Quake
+
+* Team Fortress 2 ***
+* Soldat
+
 
 
 

@@ -48,7 +48,12 @@ extra_javascript:
 
 plugin:
   - meta
-  - blog
+  - blog:
+      blog_toc: true
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - Games
+        - Lanparty
   - search
   - tags
 
