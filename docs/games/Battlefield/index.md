@@ -2,18 +2,18 @@
 
 ## Battlefield 1942
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2721068159
+[Battlefield 1942 install](https://steamcommunity.com/sharedfiles/filedetails/?id=2721068159)
 
 ## Battlefield Vietnam
 
-https://oldgamesdownload.com/battlefield-vietnam-2tt/
+[Battfield Vietnam - oldgamesdownload](https://oldgamesdownload.com/battlefield-vietnam-2tt/)
 
 ## Battlefield 2
 
-https://oldgamesdownload.com/battlefield-2-ttry/
+[Battfield 2 - oldgamesdownload](https://oldgamesdownload.com/battlefield-2-ttry/)
 
-### Mods
+### Mods / Standalone Game
 
 #### Project Reality
 
-https://www.realitymod.com/
+[Project Reality](https://www.realitymod.com/)

@@ -33,15 +33,18 @@ theme:
 extra_css:
   - https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css
   - https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css
+  - https://cdn.datatables.net/responsive/2.5.0/css/responsive.bootstrap5.min.css
   - stylesheets/thalergames.css
 
 extra_javascript:
   - https://code.jquery.com/jquery-3.7.0.min.js
   - https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js
   - https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js
-  #- https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/datatables-init.js  
-  #- javascripts/tablesort.js
+  - https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js
+  - https://cdn.datatables.net/responsive/2.5.0/js/responsive.bootstrap5.min.js
+  - javascripts/datatables-init.js
+  - javascripts/dynamic-datatables.js
+  - javascripts/tablesorts.js
 
 plugin:
   - meta
@@ -78,5 +81,6 @@ nav:
   - index.md
   - Games:
     - games/index.md
+  - Charts: charts.md
   - Blog:
     - blog/index.md
