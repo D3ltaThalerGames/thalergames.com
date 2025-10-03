@@ -1,0 +1,120 @@
+{
+  "games": [
+    {
+      "rank": 1,
+      "name": "Counter-Strike: Global Offensive",
+      "owners": "30000000",
+      "price": 0.00,
+      "rating": 9.5,
+      "genre": "FPS",
+      "developer": "Valve Corporation",
+      "release_date": "2012-08-21",
+      "platforms": ["PC", "Mac", "Linux"]
+    },
+    {
+      "rank": 2,
+      "name": "Dota 2",
+      "owners": "11000000",
+      "price": 0.00,
+      "rating": 9.2,
+      "genre": "MOBA",
+      "developer": "Valve Corporation",
+      "release_date": "2013-07-09",
+      "platforms": ["PC", "Mac", "Linux"]
+    },
+    {
+      "rank": 3,
+      "name": "Grand Theft Auto V",
+      "owners": "25000000",
+      "price": 29.99,
+      "rating": 9.7,
+      "genre": "Action",
+      "developer": "Rockstar Games",
+      "release_date": "2015-04-14",
+      "platforms": ["PC", "PlayStation", "Xbox"]
+    },
+    {
+      "rank": 4,
+      "name": "Apex Legends",
+      "owners": "8500000",
+      "price": 0.00,
+      "rating": 8.8,
+      "genre": "Battle Royale",
+      "developer": "Respawn Entertainment",
+      "release_date": "2019-02-04",
+      "platforms": ["PC", "PlayStation", "Xbox", "Switch"]
+    },
+    {
+      "rank": 5,
+      "name": "Cyberpunk 2077",
+      "owners": "5200000",
+      "price": 59.99,
+      "rating": 7.8,
+      "genre": "RPG",
+      "developer": "CD Projekt RED",
+      "release_date": "2020-12-10",
+      "platforms": ["PC", "PlayStation", "Xbox", "Stadia"]
+    },
+    {
+      "rank": 6,
+      "name": "Minecraft",
+      "owners": "45000000",
+      "price": 26.95,
+      "rating": 9.0,
+      "genre": "Sandbox",
+      "developer": "Mojang Studios",
+      "release_date": "2011-11-18",
+      "platforms": ["PC", "Mobile", "Console"]
+    },
+    {
+      "rank": 7,
+      "name": "Among Us",
+      "owners": "12000000",
+      "price": 4.99,
+      "rating": 8.5,
+      "genre": "Party",
+      "developer": "InnerSloth",
+      "release_date": "2018-06-15",
+      "platforms": ["PC", "Mobile", "Switch", "PlayStation", "Xbox"]
+    },
+    {
+      "rank": 8,
+      "name": "Fortnite",
+      "owners": "18000000",
+      "price": 0.00,
+      "rating": 8.2,
+      "genre": "Battle Royale",
+      "developer": "Epic Games",
+      "release_date": "2017-07-25",
+      "platforms": ["PC", "Mobile", "Console"]
+    },
+    {
+      "rank": 9,
+      "name": "The Witcher 3: Wild Hunt",
+      "owners": "8900000",
+      "price": 39.99,
+      "rating": 9.8,
+      "genre": "RPG",
+      "developer": "CD Projekt RED",
+      "release_date": "2015-05-19",
+      "platforms": ["PC", "PlayStation", "Xbox", "Switch"]
+    },
+    {
+      "rank": 10,
+      "name": "Red Dead Redemption 2",
+      "owners": "6700000",
+      "price": 59.99,
+      "rating": 9.6,
+      "genre": "Action",
+      "developer": "Rockstar Games",
+      "release_date": "2019-11-05",
+      "platforms": ["PC", "PlayStation", "Xbox", "Stadia"]
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-10-03T10:00:00Z",
+    "total_games": 10,
+    "data_source": "Steam Charts & Gaming Analytics",
+    "currency": "USD"
+  }
+}
